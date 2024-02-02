@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713328160704",
+    "project_id": "explore-haven",
+    "storage_bucket": "explore-haven.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713328160704:android:6b9302e043a1974babe225",
+        "android_client_info": {
+          "package_name": "com.example.explorehaven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJIp2L1pDP-xCNZgls54tU5Vp5nQGIflc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
